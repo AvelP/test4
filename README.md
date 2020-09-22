@@ -728,7 +728,7 @@
    <div class="footer">
       <div class="footer-wrap">
          <div class="footer-box">
-            <div class="footer-logo"><img src="../img/logo.svg" alt=""></div>
+            <div class="footer-logo"><img src="img/logo.svg" alt=""></div>
             <div class="prava">все права защищены 2020</div>
          </div>
          <div class="footer-box">
